@@ -15,8 +15,8 @@ Follow these steps to set up and run the project:
 
 Clone the project to your local machine:
 
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/MibzarGalarza/Tabs-React.git
+cd Tabs-React
 
 2️⃣ Install Dependencies
 
